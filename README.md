@@ -20,6 +20,7 @@ _Completing 10 different Mini-Projects Challenge 🚀_
 | Project Name            | Project Deployed Link                                                             |
 | ----------------------- | --------------------------------------------------------------------------------- |
 | Sample Personal Website | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/SamplePersonalWebsite/) |
+| Google Home Page        | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/Googleweb/)             |
 
 ## Author 👋 :
 
