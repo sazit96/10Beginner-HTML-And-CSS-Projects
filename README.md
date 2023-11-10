@@ -17,12 +17,11 @@ _Completing 10 different Mini-Projects Challenge 🚀_
 
 <br><br>
 
-| Project Name             | Project Deployed Link                                                                  |
-| ------------------------ | -------------------------------------------------------------------------------------- |
-| Sample Personal Website  | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/SamplePersonalWebsite/)      |
-| Google Home Page         | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/Googleweb/)                  |
-| A Digital Business Card  | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/BuildADigitalBusinessCard/)  |
-| A Space Exploration Site | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/BuildASpaceExplorationSite/) |
+| Project Name            | Project Deployed Link                                                                 |
+| ----------------------- | ------------------------------------------------------------------------------------- |
+| Sample Personal Website | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/SamplePersonalWebsite/)     |
+| Google Home Page        | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/Googleweb/)                 |
+| A Digital Business Card | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/BuildADigitalBusinessCard/) |
 
 ## Author 👋 :
 
