@@ -23,6 +23,7 @@ _Completing 10 different Mini-Projects Challenge 🚀_
 | Google Home Page         | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/Googleweb/)                  |
 | A Digital Business Card  | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/BuildADigitalBusinessCard/)  |
 | A Space Exploration Site | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/BuildASpaceExplorationSite/) |
+| A Birthday GIFt Site     | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/BuildABirthdayGIFtSite/)     |
 
 ## Author 👋 :
 
