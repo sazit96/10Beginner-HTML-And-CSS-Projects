@@ -1,0 +1,96 @@
+body {
+    background-color: #001d3d;
+    text-align: center;
+    color: white;
+    font-family: 'Happy Monkey', cursive;
+}
+#Heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1, h2, h4 {
+    text-shadow: 0 0 1px black;
+}
+#age {
+    margin: 5px 0 10px 0;
+    padding: 5px 10px;
+    background: #4cc9f0;
+    border-radius: 5px;
+}
+#date {
+    margin: 0;
+    padding: 5px 10px;
+    background: #4cc9f0;
+    border-radius: 5px;
+
+}
+#goat {
+    width: 250px;
+    border-radius: 50%;
+    border: 6px solid #4cc9f0;
+}
+.gift_section {
+    margin-top: 50px;
+}
+.gift_title {
+    margin-bottom: 10px;
+}
+.gift_hints {
+    margin-top: 0;
+}
+.gift_img{
+    width: 400px;
+    height: 400px;
+    background-image: url(images/gift_box.avif);
+    background-size: cover;
+    border: 6px solid white;
+    border-radius: 10px;
+}
+.gift_img:hover {
+    background-image: url(images/birthdayDance.gif);
+}
+#gift_img2 {
+    width: 400px;
+    height: 400px;
+    background-image: url(images/gift_box2.avif);
+    background-size: cover;
+    border: 6px solid white;
+    border-radius: 10px;
+}
+#gift_img2:hover {
+    background-image: url(images/clapping.gif);
+}
+#gift_img3 {
+    width: 400px;
+    height: 400px;
+    background-image: url(images/gift_box3.avif);
+    background-size: cover;
+    border: 6px solid white;
+    border-radius: 10px;
+}
+#gift_img3:hover {
+    background-image: url(images/goat.gif);
+}
+#gift_img4 {
+    width: 400px;
+    height: 400px;
+    background-image: url(images/gift_box4.avif);
+    background-size: cover;
+    border: 6px solid white;
+    border-radius: 10px;
+}
+#gift_img4:hover {
+    background-image: url(images/ronaldo.gif);
+}
+#gift_img5 {
+    width: 400px;
+    height: 200px;
+    background-image: url(images/gift_box5.avif);
+    background-size: cover;
+    border: 6px solid white;
+    border-radius: 10px;
+}
+#gift_img5:hover {
+    background-image: url(images/cheers.gif);
+}
