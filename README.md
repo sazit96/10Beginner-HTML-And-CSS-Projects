@@ -17,14 +17,15 @@ _Completing 10 different Mini-Projects Challenge 🚀_
 
 <br><br>
 
-| Project Name             | Project Deployed Link                                                                  |
-| ------------------------ | -------------------------------------------------------------------------------------- |
-| Sample Personal Website  | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/SamplePersonalWebsite/)      |
-| Google Home Page         | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/Googleweb/)                  |
-| A Digital Business Card  | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/BuildADigitalBusinessCard/)  |
-| A Space Exploration Site | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/BuildASpaceExplorationSite/) |
-| A Birthday GIFt Site     | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/BuildABirthdayGIFtSite/)     |
-| A Recipe Website         | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/ARecipeWebsite/)             |
+| Project Name                      | Project Deployed Link                                                                  |
+| --------------------------------- | -------------------------------------------------------------------------------------- |
+| Sample Personal Website           | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/SamplePersonalWebsite/)      |
+| Google Home Page                  | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/Googleweb/)                  |
+| A Digital Business Card           | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/BuildADigitalBusinessCard/)  |
+| A Space Exploration Site          | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/BuildASpaceExplorationSite/) |
+| A Birthday GIFt Site              | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/BuildABirthdayGIFtSite/)     |
+| A Recipe Website                  | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/ARecipeWebsite/)             |
+| Facebook – log in or sign up page | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/FacebookLoginPage/)          |
 
 ## Author 👋 :
 
