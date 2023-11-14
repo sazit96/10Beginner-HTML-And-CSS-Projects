@@ -26,6 +26,7 @@ _Completing 10 different Mini-Projects Challenge 🚀_
 | A Birthday GIFt Site              | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/BuildABirthdayGIFtSite/)     |
 | A Recipe Website                  | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/ARecipeWebsite/)             |
 | Facebook – log in or sign up page | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/FacebookLoginPage/)          |
+| Online Calculator                 | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/FacebookLoginPage/)          |
 
 ## Author 👋 :
 
