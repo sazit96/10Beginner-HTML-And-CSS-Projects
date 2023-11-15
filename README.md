@@ -27,6 +27,7 @@ _Completing 10 different Mini-Projects Challenge 🚀_
 | A Recipe Website                  | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/ARecipeWebsite/)             |
 | Facebook – log in or sign up page | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/FacebookLoginPage/)          |
 | Online Calculator                 | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/OnlineCalculator/)           |
+| A QR Code Component               | [Preview](https://sazit96.github.io/HTML-And-CSS-Projects/QrCodeComponent/)            |
 
 ## Author 👋 :
 

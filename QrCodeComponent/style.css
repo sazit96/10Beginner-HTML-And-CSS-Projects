@@ -1,0 +1,52 @@
+:root {
+    --grayBlue: #00406c;
+    --darkBlue: #001524;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    background: var(--darkBlue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.card {
+    background: var(--grayBlue);
+    width: 320px;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.card-body {
+    padding: 0 8px;
+    text-align: center;
+}
+
+h4 {
+    font-weight: 700;
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+p {
+    color: #dcc9b6;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
